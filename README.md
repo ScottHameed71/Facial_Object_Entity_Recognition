@@ -1,5 +1,5 @@
 # Facial_Object_Entity_Recognition
-This repository contains the source code, presentations, videos, and report for the Facial, Object, and Entity Identification Project
+This repository contains the source code, presentations, videos, and report for the Facial, Object, and Entity Recognition Project
 
 Below are the resources related to this project:
 
