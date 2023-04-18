@@ -1,3 +1,4 @@
+{% include youtube.html id="nyfV-OWfZsY&t" %}
 [![Final video of fixing issues in your code in VS Code]
 (https://img.youtube.com/vi/nyfV-OWfZsY&t/maxresdefault.jpg)]
 (https://www.youtube.com/watch?v=nyfV-OWfZsY&t)
@@ -5,4 +6,4 @@
 {% raw %} {% include youtube.html id="nyfV-OWfZsY&t" %}
 {% endraw %}
 
-{% include youtube.html id="nyfV-OWfZsY&t" %}
+
