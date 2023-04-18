@@ -1,0 +1,69 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@ScottHameed71 
+codepo8
+/
+youtube-embed
+Public
+Fork your own copy of codepo8/youtube-embed
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+Beta Try the new code view
+youtube-embed/_includes/youtube.html
+@codepo8
+codepo8 Setting up demo repo
+Latest commit 6b19b27 on Sep 14, 2022
+ History
+ 1 contributor
+23 lines (23 sloc)  467 Bytes
+ 
+
+<div class="embed-container">
+    <iframe width="640" height="390" 
+    src="https://www.youtube.com/embed/{{ include.id }}" 
+    frameborder="0" allowfullscreen></iframe>
+</div>
+<style>
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+youtube-embed/youtube.html at main · codepo8/youtube-embed
